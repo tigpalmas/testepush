@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853372197139",
+    "project_id": "testenotificationapp",
+    "storage_bucket": "testenotificationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853372197139:android:41b519a21ded1073a222e6",
+        "android_client_info": {
+          "package_name": "com.tigpalmas2.expo_notification_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853372197139-ldo6ef8ft9d9i43tcag3blplgtl3t01a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhdHuNK0gFW79zRJDOrSG04yGC82hB7ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853372197139-ldo6ef8ft9d9i43tcag3blplgtl3t01a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

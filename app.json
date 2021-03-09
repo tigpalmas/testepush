@@ -22,10 +22,13 @@
       "supportsTablet": true
     },
     "android": {
+      "useNextNotificationsApi": true,
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.tigpalmas2.expo_notification_test"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
